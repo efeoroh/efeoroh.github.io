@@ -2,11 +2,11 @@
 
 **Technical Skills:** Power BI, SQL, R, Python, SAS, MATLAB
 
-Data Analyst specializing in **Data Visualization, Report Automation, and large-scale data modeling** using Power BI, R, and SQL.
+Data Analyst specializing in **Data Visualization, Report Automation, and scalable data analysis workflows** using Power BI, R, Python, and SQL.
 
 ---
 
-## Education
+# Education
 
 **University of Alberta — Edmonton Alberta**  
 Bachelor of Arts, Economics
@@ -16,22 +16,28 @@ Bachelor of Arts, Economics
 
 ---
 
-## Experience
+# Experience
 
 ### Junior Economist @ Government of Alberta (May 2024 – Present)
 
 - Built and deployed and enterprise-scale Labour Market Insights dashboard in Power BI, modeling a 45M-row dataset to produce executive ready insights.  
 - Led advanced R & SQL-based analysis on the impact of migration on Alberta’s labour market and fully automated monthly data pipeline, significantly reducing manual reporting effort.
 
+---
+
 ### Junior Economist @ Government of Canada (Jan 2024 – May 2024)
 
 - Built Power BI dashboard, offering real-time, web-scraped emission source mapping and ensuring 3 years of analytical value for the team.  
-- Spearhead one of seven segments on a Prairie economy analysis with R for the CIIT binder to the Prime Minister
+- Spearhead one of seven segments on a Prairie economy analysis with R for the CIIT binder to the Prime Minister.
+
+---
 
 ### Enterprise Sales Intern @ Microsoft (May 2023 – Aug 2023)
 
 - Demonstrated analytical skills by analyzing Nigeria’s top 4 banks, creating a market trends visualisations, and delivering an endorsed cybersecurity presentation at a major tech gathering.  
 - Showcased multitasking ability by organising a high-impact event with 400+ attendees, focusing on AI bias challenges and ethical awareness.
+
+---
 
 ### Data Science Intern @ Deloitte Consulting (May 2022 – Aug 2022)
 
@@ -40,40 +46,35 @@ Bachelor of Arts, Economics
 
 ---
 
-## Projects
+# Selected Analytics Projects
 
-### [Impact of Covid on Edmonton Real Estate (Best Analysis Competition Winner)](LINK_TO_PROJECT)
+---
 
-![Covid Real Estate Analysis](images/covid_real_estate_dashboard.png)
+## [Impact of Covid on Edmonton Real Estate (Best Analysis Competition Winner)](https://github.com/efeoroh/efeoroh.github.io/blob/main/Competition%20Submission_Impact%20of%20Covid19%20RealEstate.pdf)
+
+![Covid Real Estate Analysis](images/Impact0fCovid19.png)
 
 - Published a paper analysing how Covid-19 reshaped housing patterns in Edmonton AB (Section 5).
 
 ---
 
-### [Autonomous Drone, Aerial Robotics](LINK_TO_PROJECT)
+## [Spotify Streaming Analytics Dashboard | Power BI](https://github.com/efeoroh/efeoroh.github.io)
 
-![Autonomous Drone Project](images/drone_path_planning.png)
+![Spotify Dashboard](images/Spotify Dashboard.png)
 
-- Developed a C++ path-planning algo for autonomous drones using A*, path pruning, and map discretization
-
----
-
-### [Fifa 18 Player Analysis Dashboard](LINK_TO_PROJECT)
-
-![Fifa Dashboard](images/fifa_dashboard.png)
-
-- Developed an interactive Tableau dashboard, enabling player and team comparison by nationality.
+- Developed an interactive Power BI dashboard analyzing Spotify streaming data, enabling exploration of track performance, release trends, and artist-level insights.  
+- Implemented advanced visualizations including calendar heatmaps, engagement metrics, and track rankings to highlight listening patterns over time.
 
 ---
 
-### [A/B Testing Ecom Insights](LINK_TO_PROJECT)
+## [Hiring Demand Bulletin | Labour Market Analysis](https://github.com/efeoroh/efeoroh.github.io/blob/main/Hiring%20Demand%20Bulletin_March%202025.pdf)
 
-![AB Testing Dashboard](images/ab_testing_dashboard.png)
+![Hiring Demand Bulletin](images/HD Bulletin.png)
 
-- Designed an IoT product to provide hands-free water faucet control and analytics, complete with web app
+- Developed a labour market hiring demand bulletin analyzing job posting trends and labour demand indicators using advanced data analytics and reporting workflows.
 
 ---
 
-## Skills
+# Skills
 
 **Software Tools:** Python, R, SQL, SAS, Tableau, Power BI, DAX, Statistics, Excel, Time Series, Databricks, Predictive Analytics, Prescriptive Analytics, A/B testing, Data Analytics, Prompt-Engineering, Jupyter Notebook
