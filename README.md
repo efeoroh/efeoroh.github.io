@@ -48,71 +48,73 @@ Bachelor of Arts, Economics
 
 # Analytics Projects
 
----
+<table>
 
-<details>
-<summary><strong>Impact of Covid on Edmonton Real Estate (Best Analysis Competition Winner)</strong></summary>
+<tr>
 
-<br>
+<td width="50%">
 
+### Impact of Covid on Edmonton Real Estate  
 **R • Data Visualization • Analytics • Machine Learning**
 
-[View Report](https://github.com/efeoroh/efeoroh.github.io/blob/main/Competition%20Submission_Impact%20of%20Covid19%20RealEstate.pdf)
+<a href="https://github.com/efeoroh/efeoroh.github.io/blob/main/Competition%20Submission_Impact%20of%20Covid19%20RealEstate.pdf">
 
-![Covid Real Estate Analysis](images/Impact0fCovid19.png)
+<img src="images/Impact0fCovid19.png" width="100%">
 
-- Published a paper analysing how Covid-19 reshaped housing patterns in Edmonton AB (Section 5).
+</a>
 
-</details>
+Published a paper analysing how Covid-19 reshaped housing patterns in Edmonton AB (Section 5).
 
----
+</td>
 
-<details>
-<summary><strong>Spotify Streaming Analytics Dashboard</strong></summary>
+<td width="50%">
 
-<br>
-
+### Spotify Streaming Analytics Dashboard  
 **Power BI • Data Visualization • Analytics**
 
-![Spotify Dashboard](images/Spotify Dashboard.png)
+<a href="https://github.com/efeoroh/efeoroh.github.io">
 
-- Developed an interactive Power BI dashboard analyzing Spotify streaming data, enabling exploration of track performance, release trends, and artist-level insights.  
-- Implemented advanced visualizations including calendar heatmaps, engagement metrics, and track rankings to highlight listening patterns over time.
+<img src="images/Spotify Dashboard.png" width="100%">
 
-</details>
+</a>
 
----
+Interactive Power BI dashboard analyzing Spotify streaming data, highlighting release trends, track performance, and listening patterns.
 
-<details>
-<summary><strong>Hiring Demand Bulletin</strong></summary>
+</td>
 
-<br>
+</tr>
 
+<tr>
+
+<td width="50%">
+
+### Hiring Demand Bulletin  
 **Excel • Report Writing • Data Analytics**
 
-[View Bulletin](https://github.com/efeoroh/efeoroh.github.io/blob/main/Hiring%20Demand%20Bulletin_March%202025.pdf)
+<a href="https://github.com/efeoroh/efeoroh.github.io/blob/main/Hiring%20Demand%20Bulletin_March%202025.pdf">
 
-![Hiring Demand Bulletin](images/HD Bulletin.png)
+<img src="images/HD Bulletin.png" width="100%">
 
-- Developed a labour market hiring demand bulletin analyzing job posting trends and labour demand indicators using advanced data analytics and reporting workflows.
+</a>
 
-</details>
+Developed a labour market hiring demand bulletin analyzing job posting trends and labour demand indicators using advanced data analytics and reporting workflows.
 
----
+</td>
 
-<details>
-<summary><strong>Industry Reports Automation</strong></summary>
+<td width="50%">
 
-<br>
-
+### Industry Reports Automation  
 **R • Automation • Data Analysis**
 
-- Automated report building for **18 industries**, processing **2M+ rows of data** and demonstrating the ability to automate data pulling and report generation across multiple industry reports simultaneously.
+<img src="images/Road Accident Dashboard.png" width="100%">
 
-<!-- Optional image when you add one later -->
-<!-- ![Industry Reports Automation](images/industry_reports_automation.png) -->
+Automated report building for **18 industries**, processing **2M+ rows of data** and demonstrating the ability to automate data pulling and report generation across multiple industry reports simultaneously.
 
-</details>
+</td>
+
+</tr>
+
+</table>
 
 ---
 
