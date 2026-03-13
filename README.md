@@ -63,6 +63,15 @@ Analysis of **Canada’s oil transportation infrastructure and fiscal outcomes**
 
 ---
 
+## Canada Electricity Generation and Emissions Analysis  
+**R • Energy Systems Analytics • Data Visualization**
+
+[![Electricity Analysis](images/Electricity_Analysis.png)](Canada_Electricity_Generation_Emissions_Analysis.html)
+
+Analysis of **Canada’s electricity generation mix and emissions trends**, examining how provincial generation structures, coal phase-outs, and the expansion of renewables have shaped the decarbonization of Canada’s electricity sector.
+
+---
+
 # Music Analytics
 
 ## Spotify Streaming Analytics Dashboard  
