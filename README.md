@@ -83,7 +83,7 @@ header h1 {
 <p><b>Technical Skills:</b> Power BI, SQL, R, Python, SAS, MATLAB</p>
 
 <p>
-Data Analyst specializing in <b>Data Visualization, Report Automation, and scalable data analysis workflows</b>
+Data Analyst specializing in Data Visualization, Report Automation, and scalable data analysis workflows
 using Power BI, R, Python, and SQL.
 </p>
 
@@ -106,15 +106,15 @@ Bachelor of Arts, Economics</p>
 <div class="job-title">Junior Economist @ Government of Alberta (May 2024 – Present)</div>
 
 <ul>
-<li>Built and deployed an enterprise-scale Labour Market Insights <b>dashboard in Power BI</b> modeling a <b>45M-row dataset</b>.</li>
-<li>Led <b>advanced R & SQL analysis</b> on migration impacts on Alberta’s labour market and <b>automated the monthly reporting pipeline</b>.</li>
+<li>Built and deployed an enterprise-scale Labour Market Insights dashboard in Power BI modeling a 45M-row dataset.</li>
+<li>Led advanced R & SQL analysis on migration impacts on Alberta’s labour market and <b>automated the monthly reporting pipeline.</li>
 </ul>
 
 <div class="job-title">Junior Economist @ Government of Canada (Jan 2024 – May 2024)</div>
 
 <ul>
-<li>Built a Power BI dashboard with real-time <b>web-scraped emissions mapping.</b></li>
-<li>Spearheaded one of seven analytical segments in a Prairie economy report prepared for <b>the Prime Minister's CIIT binder.</b></li>
+<li>Built a Power BI dashboard with real-time web-scraped emissions mapping.</li>
+<li>Spearheaded one of seven analytical segments in a Prairie economy report prepared for the Prime Minister's CIIT binder.</li>
 </ul>
 
 <div class="job-title">Data Science Intern @ Deloitte Consulting (May 2022 – Aug 2022)</div>
