@@ -107,7 +107,7 @@ Bachelor of Arts, Economics</p>
 
 <ul>
 <li>Built and deployed an enterprise-scale Labour Market Insights dashboard in Power BI modeling a 45M-row dataset.</li>
-<li>Led advanced R & SQL analysis on migration impacts on Alberta’s labour market and <b>automated the monthly reporting pipeline.</li>
+<li>Led advanced R & SQL analysis on migration impacts on Alberta’s labour market and <b>automated the monthly reporting pipeline</b>.</li>
 </ul>
 
 <div class="job-title">Junior Economist @ Government of Canada (Jan 2024 – May 2024)</div>
