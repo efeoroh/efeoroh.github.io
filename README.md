@@ -20,15 +20,15 @@ Bachelor of Arts, Economics
 
 ### Junior Economist @ Government of Alberta (May 2024 – Present)
 
-- Built and deployed an enterprise-scale Labour Market Insights dashboard in Power BI, modeling a 45M-row dataset to produce executive ready insights.  
-- Led advanced R & SQL-based analysis on the impact of migration on Alberta’s labour market and fully automated monthly data pipeline.
+- Built and deployed an enterprise-scale Labour Market Insights dashboard in Power BI, modeling a **45M-row dataset** to produce executive-ready insights.  
+- Led advanced **R & SQL analysis on migration impacts on Alberta’s labour market**, and fully automated the monthly reporting pipeline.
 
 ---
 
 ### Junior Economist @ Government of Canada (Jan 2024 – May 2024)
 
-- Built Power BI dashboard offering real-time web-scraped emissions source mapping.  
-- Spearheaded one of seven segments on Prairie economy analysis for the CIIT binder to the Prime Minister.
+- Built a **Power BI dashboard with real-time web-scraped emissions mapping**, providing multi-year analytical value to the team.  
+- Spearheaded one of seven analytical segments in a **Prairie economy report prepared for the Prime Minister's CIIT binder**.
 
 ---
 
@@ -36,16 +36,14 @@ Bachelor of Arts, Economics
 
 ---
 
-# Labour Market Analysis
+# Energy
 
-## Hiring Demand Bulletin  
-**Excel • Report Writing • Data Analytics**
+## Canadian Crude Price Outlook + Impact of Tariffs on Crude Oil Analysis  
+**R • Energy Market Analytics • Data Visualization**
 
-[View Report](https://github.com/efeoroh/efeoroh.github.io/blob/main/Hiring%20Demand%20Bulletin_March%202025.pdf)
+[![Crude Trade Vulnerability](images/crude_trade_vulnerability.png)](https://efeoroh.github.io/CanadianCrudePrice_TradeVulnerability.html)
 
-![Hiring Demand Bulletin](images/HD Bulletin.png)
-
-Developed a labour market hiring demand bulletin analyzing job posting trends and labour demand indicators.
+Analysis of **Canada’s crude oil trade vulnerability**, examining how **tariffs, market access constraints, and reliance on U.S. imports influence Canadian crude pricing dynamics under different global energy scenarios.**
 
 ---
 
@@ -54,11 +52,9 @@ Developed a labour market hiring demand bulletin analyzing job posting trends an
 ## Spotify Streaming Analytics Dashboard  
 **Power BI • Data Visualization • Analytics**
 
-[View Dashboard](https://github.com/efeoroh/efeoroh.github.io)
+[![Spotify Dashboard](images/Spotify Dashboard.png)](https://github.com/efeoroh/efeoroh.github.io)
 
-![Spotify Dashboard](images/Spotify Dashboard.png)
-
-Interactive Power BI dashboard analyzing Spotify streaming data including track performance, artist metrics, and release trends.
+Interactive Power BI dashboard analyzing **Spotify streaming performance**, enabling exploration of **track popularity, artist metrics, and release trends across time**.
 
 ---
 
@@ -67,20 +63,18 @@ Interactive Power BI dashboard analyzing Spotify streaming data including track 
 ## Industry Reports Automation  
 **R • Automation • Data Analysis**
 
-![Industry Automation](images/Road Accident Dashboard.png)
-
-Automated report building for **18 industries**, processing **2M+ rows of data** and generating reports simultaneously using R.
+Automated report building for **18 industries**, processing **2M+ rows of data** and generating multiple industry reports simultaneously using R-based data pipelines and automated reporting workflows.
 
 ---
 
-# Energy
+# Labour Market Analysis
 
-## Canadian Crude Price Trade Vulnerability Analysis  
-**R • Energy Market Analytics • Data Visualization**
+## Hiring Demand Bulletin  
+**Excel • Report Writing • Data Analytics**
 
-[View Report](https://efeoroh.github.io/CanadianCrudePrice_TradeVulnerability.html)
+[![Hiring Demand Bulletin](images/HD Bulletin.png)](https://github.com/efeoroh/efeoroh.github.io/blob/main/Hiring%20Demand%20Bulletin_March%202025.pdf)
 
-Analysis of Canadian crude oil pricing vulnerability driven by trade constraints, transportation bottlenecks, and market access limitations.
+Developed a **labour market hiring demand bulletin**, analyzing job posting trends and labour demand indicators to identify shifts in hiring activity across industries.
 
 ---
 
@@ -89,11 +83,9 @@ Analysis of Canadian crude oil pricing vulnerability driven by trade constraints
 ## Impact of Covid on Edmonton Real Estate  
 **R • Data Visualization • Analytics • Machine Learning**
 
-[View Report](https://github.com/efeoroh/efeoroh.github.io/blob/main/Competition%20Submission_Impact%20of%20Covid19%20RealEstate.pdf)
+[![Covid Real Estate Analysis](images/Impact0fCovid19.png)](https://github.com/efeoroh/efeoroh.github.io/blob/main/Competition%20Submission_Impact%20of%20Covid19%20RealEstate.pdf)
 
-![Covid Real Estate Analysis](images/Impact0fCovid19.png)
-
-Published a paper analyzing how Covid-19 reshaped housing patterns in Edmonton AB.
+Published a paper analyzing **how Covid-19 reshaped housing patterns in Edmonton**, using statistical analysis and data visualization to identify structural changes in housing demand.
 
 ---
 
