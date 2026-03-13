@@ -5,14 +5,14 @@ body {
   color: #000;
 }
 
-/* Section headers (Education, Experience, Analytics Projects) */
+/* Section headers */
 .section-title {
   font-size: 32px;
   font-weight: 700;
   margin-top: 40px;
 }
 
-/* Category headers (Energy, Music, etc.) */
+/* Category headers */
 .category-title {
   font-size: 24px;
   font-weight: 700;
@@ -83,22 +83,22 @@ Bachelor of Arts, Economics</p>
 <div class="job-title">Junior Economist @ Government of Alberta (May 2024 – Present)</div>
 
 <ul>
-<li>Built and deployed an enterprise-scale Labour Market Insights dashboard in Power BI modeling a <b>45M-row dataset</b>.</li>
-<li>Led advanced R & SQL analysis on migration impacts on Alberta’s labour market and automated the monthly reporting pipeline.</li>
+<li>Built and deployed an enterprise-scale Labour Market Insights <b>dashboard in Power BI</b> modeling a <b>45M-row dataset</b>.</li>
+<li>Led <b>advanced R & SQL analysis</b> on migration impacts on Alberta’s labour market and <b>automated the monthly reporting pipeline</b>.</li>
 </ul>
 
 <div class="job-title">Junior Economist @ Government of Canada (Jan 2024 – May 2024)</div>
 
 <ul>
-<li>Built a Power BI dashboard with real-time web-scraped emissions mapping.</li>
-<li>Spearheaded one of seven analytical segments in a Prairie economy report prepared for the Prime Minister's CIIT binder.</li>
+<li>Built a Power BI dashboard with real-time <b>web-scraped emissions mapping.</b></li>
+<li>Spearheaded one of seven analytical segments in a Prairie economy report prepared for <b>the Prime Minister's CIIT binder.</b></li>
 </ul>
 
 <div class="job-title">Data Science Intern @ Deloitte Consulting (May 2022 – Aug 2022)</div>
 
 <ul>
-<li>Performed customer churn analysis for a $12.41B telecommunications company.</li>
-<li>Developed a machine learning churn prediction model exceeding identification targets by 10%.</li>
+<li>Performed <b>customer churn analysis</b> for a $12.41B telecommunications company.</li>
+<li>Developed a <b>machine learning churn prediction model</b> exceeding identification targets by 10%.</li>
 </ul>
 
 <hr class="section-divider">
@@ -195,13 +195,51 @@ Interactive Power BI dashboard analyzing Spotify streaming performance and liste
 <details open>
 <summary class="category-title">Automation</summary>
 
-<div class="project-title">Industry Reports Automation</div>
+<div class="project-title">
+<a href="jet-alberta-mining-and-oil-and-gas-extraction-industry-profile.pdf">
+Industry Reports Automation
+</a>
+</div>
 
 <div class="project-tools">R • Automation • Data Analysis</div>
+
+<a href="jet-alberta-mining-and-oil-and-gas-extraction-industry-profile.pdf">
+<img class="project-img" src="images/IndustryProfiles.png">
+</a>
 
 <p>
 Automated report generation for <b>18 industries</b> processing <b>2M+ rows of data</b>
 and generating multiple industry reports simultaneously.
+</p>
+
+<hr>
+
+<div class="project-title">
+<a href="Webscraping research project (2) (1).mp4">
+Greenhouse Gas Data Pull Automation
+</a>
+</div>
+
+<div class="project-tools">Python • Web Scraping • Automation</div>
+
+<a href="Webscraping research project (2) (1).mp4">
+<img class="project-img" src="images/GHGDataPull.png">
+</a>
+
+<p>
+Automated the extraction and cleaning of <b>1M+ rows of greenhouse gas emissions data</b> used in a GHG analytics dashboard. The workflow fully automated the data refresh pipeline for a dashboard requiring <b>annual updates</b>, eliminating manual data collection and ensuring reproducible updates each reporting cycle.
+</p>
+
+<hr>
+
+<div class="project-title">
+Indigenous Statistics Data Pipeline Automation
+</div>
+
+<div class="project-tools">R • Automation • Data Engineering</div>
+
+<p>
+Automated the extraction and processing of <b>5M+ rows of Indigenous statistical data</b> used in multiple recurring analytical reports. The pipeline standardized data ingestion, cleaning, and transformation for repeated reporting workflows. Project outputs cannot be displayed publicly due to data access restrictions.
 </p>
 
 </details>
@@ -254,7 +292,7 @@ Hiring Demand Bulletin
 </a>
 
 <p>
-Recurring labour market bulletin analyzing hiring demand across <b>18 industries</b>, organized into major economic sectors including <b>Technology, Health, Mining and Oil & Gas Extraction, and Education</b>, and further disaggregated by Alberta’s <b>central economic regions</b>. The report tracks industry-level hiring trends, labour demand signals, and regional employment dynamics to provide a recurring snapshot of labour market conditions.
+Recurring labour market bulletin analyzing hiring demand across <b>18 industries</b>, organized into major economic sectors including <b>Technology, Health, Mining and Oil & Gas Extraction, and Education</b>, and further disaggregated by Alberta’s <b>central economic regions</b>.
 </p>
 
 </details>
@@ -278,7 +316,7 @@ Impact of Covid on Edmonton Real Estate
 </a>
 
 <p>
-<b>1st Place Winner and Cash Prize.</b> Competition involving undergraduate and graduate students tasked with analyzing City of Edmonton datasets to examine the impact of Covid-19 on Edmonton’s housing market. I led <b>Section 5 — the core descriptive analysis</b>, conducting large-scale exploratory analysis that identified the key structural changes in housing demand and price dynamics, which subsequently informed the predictive models built by the team.
+<b>1st Place Winner and Cash Prize.</b> Competition involving Masters+ and some Bachelors students tasked with analyzing City of Edmonton datasets to examine the impact of Covid-19 on Edmonton’s housing market. I led <b>Section 5 — the core descriptive analysis</b>, conducting large-scale exploratory analysis that identified the key structural changes in housing demand and price dynamics, which subsequently informed the predictive models built by the team.
 </p>
 
 </details>
