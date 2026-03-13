@@ -75,9 +75,12 @@ Automated report building for **18 industries**, processing **2M+ rows of data**
 
 # Energy
 
-*(Future Energy Analytics Projects)*
+## Canadian Crude Price Trade Vulnerability Analysis  
+**R • Energy Market Analytics • Data Visualization**
 
-Energy market analytics, pipeline throughput analysis, electricity generation modeling, and emissions analytics projects will be added here.
+[View Report](https://efeoroh.github.io/CanadianCrudePrice_TradeVulnerability.html)
+
+Analysis of Canadian crude oil pricing vulnerability driven by trade constraints, transportation bottlenecks, and market access limitations.
 
 ---
 
