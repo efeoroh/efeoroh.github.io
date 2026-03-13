@@ -225,8 +225,11 @@ Investigating the Impact of Migration on Alberta’s Labour Force
 </a>
 
 <p>
-Analysis using <b>2M+ rows of labour force data</b> modeling four economic scenarios
-to measure migration's impact on Alberta's labour force participation rate.
+Large-scale labour market analysis using <b>2M+ rows of labour force data</b> and a range of industry-standard statistical methods and visualizations.
+</p>
+
+<p>
+The project implemented <b>economic modeling of four counterfactual scenarios</b> to isolate the effect of migration on Alberta’s labour force participation rate:
 </p>
 
 <ul>
@@ -251,7 +254,7 @@ Hiring Demand Bulletin
 </a>
 
 <p>
-Labour market hiring demand bulletin analyzing job posting trends and labour demand indicators.
+Recurring labour market bulletin analyzing hiring demand across <b>18 industries</b>, organized into major economic sectors including <b>Technology, Health, Mining and Oil & Gas Extraction, and Education</b>, and further disaggregated by Alberta’s <b>central economic regions</b>. The report tracks industry-level hiring trends, labour demand signals, and regional employment dynamics to provide a recurring snapshot of labour market conditions.
 </p>
 
 </details>
@@ -275,7 +278,7 @@ Impact of Covid on Edmonton Real Estate
 </a>
 
 <p>
-Statistical analysis examining structural changes in Edmonton housing demand following Covid.
+<b>1st Place Winner and Cash Prize.</b> Competition involving undergraduate and graduate students tasked with analyzing City of Edmonton datasets to examine the impact of Covid-19 on Edmonton’s housing market. I led <b>Section 5 — the core descriptive analysis</b>, conducting large-scale exploratory analysis that identified the key structural changes in housing demand and price dynamics, which subsequently informed the predictive models built by the team.
 </p>
 
 </details>
