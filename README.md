@@ -1,3 +1,36 @@
+<style>
+
+/* Restore normal text color */
+body {
+  color: #000;
+}
+
+/* Category headers (Energy, Music, etc.) */
+.category-title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+/* Project titles */
+.project-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 15px;
+}
+
+.project-tools {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.project-img {
+  width: 650px;
+  margin-top: 5px;
+}
+
+</style>
+
 <h1>Data Analytics Specialist</h1>
 
 <p><b>Technical Skills:</b> Power BI, SQL, R, Python, SAS, MATLAB</p>
@@ -26,22 +59,22 @@ Bachelor of Arts, Economics</p>
 <h3>Junior Economist @ Government of Alberta (May 2024 – Present)</h3>
 
 <ul>
-<li>Built and deployed an enterprise-scale Labour Market Insights dashboard in Power BI, modeling a <b>45M-row dataset</b> to produce executive-ready insights.</li>
-<li>Led advanced R & SQL analysis on migration impacts on Alberta’s labour market and <b>fully automated the monthly reporting pipeline.</b></li>
+<li>Built and deployed an enterprise-scale Labour Market Insights dashboard in Power BI modeling a <b>45M-row dataset</b>.</li>
+<li>Led advanced R & SQL analysis on migration impacts on Alberta’s labour market and automated the monthly reporting pipeline.</li>
 </ul>
 
 <h3>Junior Economist @ Government of Canada (Jan 2024 – May 2024)</h3>
 
 <ul>
-<li>Built a <b>Power BI dashboard</b> with real-time web-scraped emissions mapping, providing multi-year analytical value to the team.</li>
-<li>Spearheaded one of seven analytical segments in a Prairie economy report prepared for <b>the Prime Minister's CIIT binder.</b></li>
+<li>Built a Power BI dashboard with real-time web-scraped emissions mapping.</li>
+<li>Spearheaded one of seven analytical segments in a Prairie economy report prepared for the Prime Minister's CIIT binder.</li>
 </ul>
 
 <h3>Data Science Intern @ Deloitte Consulting (May 2022 – Aug 2022)</h3>
 
 <ul>
-<li>Performed <b>customer churn analysis</b> for a $12.41B telecommunications company, automating data cleaning and visualization for 400k+ rows, reducing manual reporting time by 94%.</li>
-<li>Developed a <b>machine learning churn prediction model</b>, exceeding churn risk identification targets by 10%.</li>
+<li>Performed customer churn analysis for a $12.41B telecommunications company.</li>
+<li>Developed a machine learning churn prediction model exceeding identification targets by 10%.</li>
 </ul>
 
 <hr>
@@ -51,63 +84,60 @@ Bachelor of Arts, Economics</p>
 <!-- ENERGY -->
 
 <details open>
-<summary><b>Energy</b></summary>
+<summary class="category-title">Energy</summary>
 
-<br>
-
-<h3>
+<div class="project-title">
 <a href="CanadianCrudePrice_TradeVulnerability.html">
 Canadian Crude Price Outlook + Impact of Tariffs on Crude Oil Analysis
 </a>
-</h3>
+</div>
 
-<p><b>R • Energy Market Analytics • Data Visualization</b></p>
+<div class="project-tools">R • Energy Market Analytics • Data Visualization</div>
 
 <a href="CanadianCrudePrice_TradeVulnerability.html">
-<img src="images/crude_trade_vulnerability.png" width="650">
+<img class="project-img" src="images/crude_trade_vulnerability.png">
 </a>
 
 <p>
-Analysis of <b>Canada’s crude oil trade vulnerability</b>, examining how tariffs,
-market access constraints, and reliance on U.S. imports influence Canadian crude pricing dynamics.
+Analysis of Canada’s crude oil trade vulnerability examining tariffs,
+market access constraints, and reliance on U.S. imports.
 </p>
 
 <hr>
 
-<h3>
+<div class="project-title">
 <a href="Shipment_Pipeline_Royalty_Analysis.html">
 Canadian Energy Infrastructure Analysis: Shipments, Pipelines, and Royalty Revenues
 </a>
-</h3>
+</div>
 
-<p><b>R • Energy Infrastructure Analytics • Data Visualization</b></p>
+<div class="project-tools">R • Energy Infrastructure Analytics • Data Visualization</div>
 
 <a href="Shipment_Pipeline_Royalty_Analysis.html">
-<img src="images/PipelineAnalysis.png" width="650">
+<img class="project-img" src="images/PipelineAnalysis.png">
 </a>
 
 <p>
-Analysis of <b>Canada’s oil transportation infrastructure</b>, examining how pipeline capacity,
-export routes, and production flows influence Alberta’s royalty revenues.
+Analysis of Canada’s oil transportation infrastructure examining pipeline capacity,
+export routes, and production flows influencing Alberta royalty revenues.
 </p>
 
 <hr>
 
-<h3>
+<div class="project-title">
 <a href="Canada_Electricity_Generation_Emissions_Analysis.html">
 Canada Electricity Generation and Emissions Analysis
 </a>
-</h3>
+</div>
 
-<p><b>R • Energy Systems Analytics • Data Visualization</b></p>
+<div class="project-tools">R • Energy Systems Analytics • Data Visualization</div>
 
 <a href="Canada_Electricity_Generation_Emissions_Analysis.html">
-<img src="images/Electricity_Analysis.png" width="650">
+<img class="project-img" src="images/Electricity_Analysis.png">
 </a>
 
 <p>
-Analysis of <b>Canada’s electricity generation mix and emissions trends</b>,
-examining how provincial generation structures and renewable expansion have shaped electricity decarbonization.
+Analysis of Canada’s electricity generation mix and emissions trends across provinces.
 </p>
 
 </details>
@@ -117,25 +147,22 @@ examining how provincial generation structures and renewable expansion have shap
 <!-- MUSIC -->
 
 <details open>
-<summary><b>Music Analytics</b></summary>
+<summary class="category-title">Music Analytics</summary>
 
-<br>
-
-<h3>
+<div class="project-title">
 <a href="images/Spotify Dashboard.png">
 Spotify Streaming Analytics Dashboard
 </a>
-</h3>
+</div>
 
-<p><b>Power BI • Data Visualization • Analytics</b></p>
+<div class="project-tools">Power BI • Data Visualization • Analytics</div>
 
 <a href="images/Spotify Dashboard.png">
-<img src="images/Spotify Dashboard.png" width="650">
+<img class="project-img" src="images/Spotify Dashboard.png">
 </a>
 
 <p>
-Interactive Power BI dashboard analyzing <b>Spotify streaming performance</b>, enabling exploration
-of track popularity, artist metrics, and release trends across time.
+Interactive Power BI dashboard analyzing Spotify streaming performance and listening trends.
 </p>
 
 </details>
@@ -145,17 +172,15 @@ of track popularity, artist metrics, and release trends across time.
 <!-- AUTOMATION -->
 
 <details open>
-<summary><b>Automation</b></summary>
+<summary class="category-title">Automation</summary>
 
-<br>
+<div class="project-title">Industry Reports Automation</div>
 
-<h3>Industry Reports Automation</h3>
-
-<p><b>R • Automation • Data Analysis</b></p>
+<div class="project-tools">R • Automation • Data Analysis</div>
 
 <p>
-Automated report generation for <b>18 industries</b>, processing <b>2M+ rows of data</b> and producing
-multiple industry reports simultaneously through scalable R-based data pipelines.
+Automated report generation for <b>18 industries</b> processing <b>2M+ rows of data</b>
+and generating multiple industry reports simultaneously.
 </p>
 
 </details>
@@ -165,50 +190,37 @@ multiple industry reports simultaneously through scalable R-based data pipelines
 <!-- LABOUR MARKET -->
 
 <details open>
-<summary><b>Labour Market Analysis</b></summary>
+<summary class="category-title">Labour Market Analysis</summary>
 
-<br>
-
-<h3>
+<div class="project-title">
 <a href="Impact_of_Migration_on_Alberta_s_Participation_Rate.pdf">
 Investigating the Impact of Migration on Alberta’s Labour Force
 </a>
-</h3>
+</div>
 
-<p><b>R • Economic Modeling • Data Visualization • Labour Market Analytics</b></p>
+<div class="project-tools">R • Economic Modeling • Data Visualization • Labour Market Analytics</div>
 
 <a href="Impact_of_Migration_on_Alberta_s_Participation_Rate.pdf">
-<img src="images/ImpactofMigration.png" width="650">
+<img class="project-img" src="images/ImpactofMigration.png">
 </a>
 
 <p>
-Large-scale labour market analysis using <b>2M+ rows of labour force data</b>.
-The project modeled four economic scenarios:
-</p>
-
-<ul>
-<li>Alberta without interprovincial migration</li>
-<li>Alberta without international migration</li>
-<li>Alberta without both</li>
-<li>Observed labour force outcomes</li>
-</ul>
-
-<p>
-Comparing these scenarios allowed measurement of <b>migration’s impact on Alberta’s labour force participation rate.</b>
+Analysis using <b>2M+ rows of labour force data</b> modeling four economic scenarios
+to measure migration's impact on Alberta's labour force participation rate.
 </p>
 
 <hr>
 
-<h3>
+<div class="project-title">
 <a href="Hiring Demand Bulletin_March 2025.pdf">
 Hiring Demand Bulletin
 </a>
-</h3>
+</div>
 
-<p><b>Excel • Report Writing • Data Analytics</b></p>
+<div class="project-tools">Excel • Report Writing • Data Analytics</div>
 
 <a href="Hiring Demand Bulletin_March 2025.pdf">
-<img src="images/HD Bulletin.png" width="650">
+<img class="project-img" src="images/HD Bulletin.png">
 </a>
 
 <p>
@@ -222,24 +234,22 @@ Labour market hiring demand bulletin analyzing job posting trends and labour dem
 <!-- OTHER -->
 
 <details open>
-<summary><b>Other Analytics Projects</b></summary>
+<summary class="category-title">Other Analytics Projects</summary>
 
-<br>
-
-<h3>
+<div class="project-title">
 <a href="Competition_Submission_Impact_of_Covid19_RealEstate.pdf">
 Impact of Covid on Edmonton Real Estate
 </a>
-</h3>
+</div>
 
-<p><b>R • Data Visualization • Analytics • Machine Learning</b></p>
+<div class="project-tools">R • Data Visualization • Analytics • Machine Learning</div>
 
 <a href="Competition_Submission_Impact_of_Covid19_RealEstate.pdf">
-<img src="images/Impact0fCovid19.png" width="650">
+<img class="project-img" src="images/Impact0fCovid19.png">
 </a>
 
 <p>
-Analysis of how Covid reshaped housing demand in Edmonton using statistical modeling and data visualization.
+Statistical analysis examining structural changes in Edmonton housing demand following Covid.
 </p>
 
 </details>
