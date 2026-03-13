@@ -1,170 +1,253 @@
-# Data Analytics Specialist
+<h1>Data Analytics Specialist</h1>
 
-**Technical Skills:** Power BI, SQL, R, Python, SAS, MATLAB
+<p><b>Technical Skills:</b> Power BI, SQL, R, Python, SAS, MATLAB</p>
 
-Data Analyst specializing in **Data Visualization, Report Automation, and scalable data analysis workflows** using Power BI, R, Python, and SQL.
+<p>
+Data Analyst specializing in <b>Data Visualization, Report Automation, and scalable data analysis workflows</b>
+using Power BI, R, Python, and SQL.
+</p>
 
----
+<hr>
 
-# Education
+<h1>Education</h1>
 
-**University of Alberta — Edmonton Alberta**  
-Bachelor of Arts, Economics
+<p><b>University of Alberta — Edmonton Alberta</b><br>
+Bachelor of Arts, Economics</p>
 
-- Relevant Coursework: Data Analysis with SAS, Python and R, Economic Forecasting, Applied Statistics, A/B Testing, Calculus II  
-- First Class Academic Standing (GPA >3.5)
+<ul>
+<li>Relevant Coursework: Data Analysis with SAS, Python and R, Economic Forecasting, Applied Statistics, A/B Testing, Calculus II</li>
+<li>First Class Academic Standing (GPA &gt; 3.5)</li>
+</ul>
 
----
+<hr>
 
-# Experience
+<h1>Experience</h1>
 
-### Junior Economist @ Government of Alberta (May 2024 – Present)
+<h3>Junior Economist @ Government of Alberta (May 2024 – Present)</h3>
 
-- Built and deployed an enterprise-scale Labour Market Insights dashboard in Power BI, modeling a **45M-row dataset** to produce executive-ready insights.  
-- Led advanced R & SQL analysis on migration impacts on Alberta’s labour market and **fully automated the monthly reporting pipeline.**
+<ul>
+<li>Built and deployed an enterprise-scale Labour Market Insights dashboard in Power BI, modeling a <b>45M-row dataset</b> to produce executive-ready insights.</li>
+<li>Led advanced R & SQL analysis on migration impacts on Alberta’s labour market and <b>fully automated the monthly reporting pipeline.</b></li>
+</ul>
 
----
+<h3>Junior Economist @ Government of Canada (Jan 2024 – May 2024)</h3>
 
-### Junior Economist @ Government of Canada (Jan 2024 – May 2024)
+<ul>
+<li>Built a <b>Power BI dashboard</b> with real-time web-scraped emissions mapping, providing multi-year analytical value to the team.</li>
+<li>Spearheaded one of seven analytical segments in a Prairie economy report prepared for <b>the Prime Minister's CIIT binder.</b></li>
+</ul>
 
-- Built a **Power BI dashboard** with real-time web-scraped emissions mapping, providing multi-year analytical value to the team.  
-- Spearheaded one of seven analytical segments in a Prairie economy report prepared for **the Prime Minister's CIIT binder**.
+<h3>Data Science Intern @ Deloitte Consulting (May 2022 – Aug 2022)</h3>
 
----
+<ul>
+<li>Performed <b>customer churn analysis</b> for a $12.41B telecommunications company, automating data cleaning and visualization for 400k+ rows, reducing manual reporting time by 94%.</li>
+<li>Developed a <b>machine learning churn prediction model</b>, exceeding churn risk identification targets by 10%.</li>
+</ul>
 
-### Data Science Intern @ Deloitte Consulting (May 2022 – Aug 2022)
+<hr>
 
-- Performed **customer churn analysis** for a $12.41B telecommunications company, automating data cleaning and visualization for 400k+ rows, reducing manual reporting time by 94%.  
-- Developed a **machine learning churn prediction model**, exceeding churn risk identification targets by 10%.
+<h1>Analytics Projects</h1>
 
----
-
-# Analytics Projects
-
----
+<!-- ENERGY -->
 
 <details open>
 <summary><b>Energy</b></summary>
 
 <br>
 
-## [Canadian Crude Price Outlook + Impact of Tariffs on Crude Oil Analysis](CanadianCrudePrice_TradeVulnerability.html)
+<h3>
+<a href="CanadianCrudePrice_TradeVulnerability.html">
+Canadian Crude Price Outlook + Impact of Tariffs on Crude Oil Analysis
+</a>
+</h3>
 
-**R • Energy Market Analytics • Data Visualization**
+<p><b>R • Energy Market Analytics • Data Visualization</b></p>
 
-[![Crude Trade Vulnerability](images/crude_trade_vulnerability.png)](CanadianCrudePrice_TradeVulnerability.html)
+<a href="CanadianCrudePrice_TradeVulnerability.html">
+<img src="images/crude_trade_vulnerability.png" width="650">
+</a>
 
-Analysis of **Canada’s crude oil trade vulnerability**, examining how tariffs, market access constraints, and reliance on U.S. imports influence Canadian crude pricing dynamics under different global energy scenarios.
+<p>
+Analysis of <b>Canada’s crude oil trade vulnerability</b>, examining how tariffs,
+market access constraints, and reliance on U.S. imports influence Canadian crude pricing dynamics.
+</p>
 
----
+<hr>
 
-## [Canadian Energy Infrastructure Analysis: Shipments, Pipelines, and Royalty Revenues](Shipment_Pipeline_Royalty_Analysis.html)
+<h3>
+<a href="Shipment_Pipeline_Royalty_Analysis.html">
+Canadian Energy Infrastructure Analysis: Shipments, Pipelines, and Royalty Revenues
+</a>
+</h3>
 
-**R • Energy Infrastructure Analytics • Data Visualization**
+<p><b>R • Energy Infrastructure Analytics • Data Visualization</b></p>
 
-[![Pipeline Analysis](images/PipelineAnalysis.png)](Shipment_Pipeline_Royalty_Analysis.html)
+<a href="Shipment_Pipeline_Royalty_Analysis.html">
+<img src="images/PipelineAnalysis.png" width="650">
+</a>
 
-Analysis of **Canada’s oil transportation infrastructure and fiscal outcomes**, examining how pipeline capacity, export routes, and production flows influence Alberta’s royalty revenues and Canada’s energy export dynamics.
+<p>
+Analysis of <b>Canada’s oil transportation infrastructure</b>, examining how pipeline capacity,
+export routes, and production flows influence Alberta’s royalty revenues.
+</p>
 
----
+<hr>
 
-## [Canada Electricity Generation and Emissions Analysis](Canada_Electricity_Generation_Emissions_Analysis.html)
+<h3>
+<a href="Canada_Electricity_Generation_Emissions_Analysis.html">
+Canada Electricity Generation and Emissions Analysis
+</a>
+</h3>
 
-**R • Energy Systems Analytics • Data Visualization**
+<p><b>R • Energy Systems Analytics • Data Visualization</b></p>
 
-[![Electricity Analysis](images/Electricity_Analysis.png)](Canada_Electricity_Generation_Emissions_Analysis.html)
+<a href="Canada_Electricity_Generation_Emissions_Analysis.html">
+<img src="images/Electricity_Analysis.png" width="650">
+</a>
 
-Analysis of **Canada’s electricity generation mix and emissions trends**, examining how provincial generation structures, coal phase-outs, and renewable expansion have shaped the decarbonization of Canada’s electricity sector.
+<p>
+Analysis of <b>Canada’s electricity generation mix and emissions trends</b>,
+examining how provincial generation structures and renewable expansion have shaped electricity decarbonization.
+</p>
 
 </details>
 
----
+<br>
+
+<!-- MUSIC -->
 
 <details open>
 <summary><b>Music Analytics</b></summary>
 
 <br>
 
-## [Spotify Streaming Analytics Dashboard](images/Spotify Dashboard.png)
+<h3>
+<a href="images/Spotify Dashboard.png">
+Spotify Streaming Analytics Dashboard
+</a>
+</h3>
 
-**Power BI • Data Visualization • Analytics**
+<p><b>Power BI • Data Visualization • Analytics</b></p>
 
-[![Spotify Dashboard](images/Spotify Dashboard.png)](images/Spotify Dashboard.png)
+<a href="images/Spotify Dashboard.png">
+<img src="images/Spotify Dashboard.png" width="650">
+</a>
 
-Interactive Power BI dashboard analyzing **Spotify streaming performance**, enabling exploration of track popularity, artist metrics, and release trends across time.
+<p>
+Interactive Power BI dashboard analyzing <b>Spotify streaming performance</b>, enabling exploration
+of track popularity, artist metrics, and release trends across time.
+</p>
 
 </details>
 
----
+<br>
+
+<!-- AUTOMATION -->
 
 <details open>
 <summary><b>Automation</b></summary>
 
 <br>
 
-## Industry Reports Automation
+<h3>Industry Reports Automation</h3>
 
-**R • Automation • Data Analysis**
+<p><b>R • Automation • Data Analysis</b></p>
 
-Automated report building for **18 industries**, processing **2M+ rows of data** and generating multiple industry reports simultaneously using scalable R-based data pipelines and automated reporting workflows.
+<p>
+Automated report generation for <b>18 industries</b>, processing <b>2M+ rows of data</b> and producing
+multiple industry reports simultaneously through scalable R-based data pipelines.
+</p>
 
 </details>
 
----
+<br>
+
+<!-- LABOUR MARKET -->
 
 <details open>
 <summary><b>Labour Market Analysis</b></summary>
 
 <br>
 
-## [Investigating the Impact of Migration on Alberta’s Labour Force](Impact_of_Migration_on_Alberta_s_Participation_Rate.pdf)
+<h3>
+<a href="Impact_of_Migration_on_Alberta_s_Participation_Rate.pdf">
+Investigating the Impact of Migration on Alberta’s Labour Force
+</a>
+</h3>
 
-**R • Economic Modeling • Data Visualization • Labour Market Analytics**
+<p><b>R • Economic Modeling • Data Visualization • Labour Market Analytics</b></p>
 
-[![Impact of Migration](images/ImpactofMigration.png)](Impact_of_Migration_on_Alberta_s_Participation_Rate.pdf)
+<a href="Impact_of_Migration_on_Alberta_s_Participation_Rate.pdf">
+<img src="images/ImpactofMigration.png" width="650">
+</a>
 
-Large-scale labour market analysis using **2M+ rows of labour force data** and a range of industry-standard statistical methods and visualizations.
+<p>
+Large-scale labour market analysis using <b>2M+ rows of labour force data</b>.
+The project modeled four economic scenarios:
+</p>
 
-The project implemented **economic modeling of four counterfactual scenarios**:
+<ul>
+<li>Alberta without interprovincial migration</li>
+<li>Alberta without international migration</li>
+<li>Alberta without both</li>
+<li>Observed labour force outcomes</li>
+</ul>
 
-- Alberta’s labour force **without interprovincial migration**
-- Alberta’s labour force **without international migration**
-- Alberta’s labour force **without both migration sources**
-- **Observed labour force outcomes**
+<p>
+Comparing these scenarios allowed measurement of <b>migration’s impact on Alberta’s labour force participation rate.</b>
+</p>
 
-Comparing these scenarios allowed measurement of **migration’s impact on Alberta’s labour force participation rate and broader labour market dynamics.**
+<hr>
 
----
+<h3>
+<a href="Hiring Demand Bulletin_March 2025.pdf">
+Hiring Demand Bulletin
+</a>
+</h3>
 
-## [Hiring Demand Bulletin](Hiring%20Demand%20Bulletin_March%202025.pdf)
+<p><b>Excel • Report Writing • Data Analytics</b></p>
 
-**Excel • Report Writing • Data Analytics**
+<a href="Hiring Demand Bulletin_March 2025.pdf">
+<img src="images/HD Bulletin.png" width="650">
+</a>
 
-[![Hiring Demand Bulletin](images/HD Bulletin.png)](Hiring%20Demand%20Bulletin_March%202025.pdf)
-
-Developed a **labour market hiring demand bulletin**, analyzing job posting trends and labour demand indicators to identify shifts in hiring activity across industries.
+<p>
+Labour market hiring demand bulletin analyzing job posting trends and labour demand indicators.
+</p>
 
 </details>
 
----
+<br>
+
+<!-- OTHER -->
 
 <details open>
 <summary><b>Other Analytics Projects</b></summary>
 
 <br>
 
-## [Impact of Covid on Edmonton Real Estate](Competition%20Submission_Impact%20of%20Covid19%20RealEstate.pdf)
+<h3>
+<a href="Competition_Submission_Impact_of_Covid19_RealEstate.pdf">
+Impact of Covid on Edmonton Real Estate
+</a>
+</h3>
 
-**R • Data Visualization • Analytics • Machine Learning**
+<p><b>R • Data Visualization • Analytics • Machine Learning</b></p>
 
-[![Covid Real Estate Analysis](images/Impact0fCovid19.png)](Competition%20Submission_Impact%20of%20Covid19%20RealEstate.pdf)
+<a href="Competition_Submission_Impact_of_Covid19_RealEstate.pdf">
+<img src="images/Impact0fCovid19.png" width="650">
+</a>
 
-Published a paper analyzing **how Covid-19 reshaped housing patterns in Edmonton**, using statistical analysis and data visualization to identify structural changes in housing demand.
+<p>
+Analysis of how Covid reshaped housing demand in Edmonton using statistical modeling and data visualization.
+</p>
 
 </details>
 
----
+<hr>
 
-# Skills
+<h1>Skills</h1>
 
-**Software Tools:** Python, R, SQL, SAS, Tableau, Power BI, DAX, Statistics, Excel, Time Series, Databricks, Predictive Analytics, Prescriptive Analytics, A/B Testing, Data Analytics, Prompt Engineering, Jupyter Notebook
+<p>
+<b>Software Tools:</b> Python, R, SQL, SAS, Tableau, Power BI, DAX, Statistics, Excel, Time Series, Databricks, Predictive Analytics, Prescriptive Analytics, A/B Testing, Data Analytics, Prompt Engineering, Jupyter Notebook
+</p>
