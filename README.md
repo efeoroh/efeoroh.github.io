@@ -1,15 +1,3 @@
-<style>
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #1a73e8;
-  text-decoration: underline;
-}
-</style>
-
 # Data Analytics Specialist
 
 **Technical Skills:** Power BI, SQL, R, Python, SAS, MATLAB
@@ -33,7 +21,7 @@ Bachelor of Arts, Economics
 ### Junior Economist @ Government of Alberta (May 2024 – Present)
 
 - Built and deployed an enterprise-scale Labour Market Insights dashboard in Power BI, modeling a **45M-row dataset** to produce executive-ready insights.  
-- Led advanced R & SQL analysis on migration impacts on Alberta’s labour market, and **fully automated the monthly reporting pipeline.**
+- Led advanced R & SQL analysis on migration impacts on Alberta’s labour market and **fully automated the monthly reporting pipeline.**
 
 ---
 
@@ -56,9 +44,11 @@ Bachelor of Arts, Economics
 ---
 
 <details open>
-<summary><strong>Energy</strong></summary>
+<summary><b>Energy</b></summary>
 
-## <a href="https://efeoroh.github.io/CanadianCrudePrice_TradeVulnerability.html">Canadian Crude Price Outlook + Impact of Tariffs on Crude Oil Analysis</a>  
+<br>
+
+## [Canadian Crude Price Outlook + Impact of Tariffs on Crude Oil Analysis](https://efeoroh.github.io/CanadianCrudePrice_TradeVulnerability.html)  
 **R • Energy Market Analytics • Data Visualization**
 
 [![Crude Trade Vulnerability](images/crude_trade_vulnerability.png)](https://efeoroh.github.io/CanadianCrudePrice_TradeVulnerability.html)
@@ -67,7 +57,7 @@ Analysis of **Canada’s crude oil trade vulnerability**, examining how tariffs,
 
 ---
 
-## <a href="Shipment_Pipeline_Royalty_Analysis.html">Canadian Energy Infrastructure Analysis: Shipments, Pipelines, and Royalty Revenues</a>  
+## [Canadian Energy Infrastructure Analysis: Shipments, Pipelines, and Royalty Revenues](Shipment_Pipeline_Royalty_Analysis.html)  
 **R • Energy Infrastructure Analytics • Data Visualization**
 
 [![Pipeline Analysis](images/PipelineAnalysis.png)](Shipment_Pipeline_Royalty_Analysis.html)
@@ -76,24 +66,26 @@ Analysis of **Canada’s oil transportation infrastructure and fiscal outcomes**
 
 ---
 
-## <a href="Canada_Electricity_Generation_Emissions_Analysis.html">Canada Electricity Generation and Emissions Analysis</a>  
+## [Canada Electricity Generation and Emissions Analysis](Canada_Electricity_Generation_Emissions_Analysis.html)  
 **R • Energy Systems Analytics • Data Visualization**
 
 [![Electricity Analysis](images/Electricity_Analysis.png)](Canada_Electricity_Generation_Emissions_Analysis.html)
 
-Analysis of **Canada’s electricity generation mix and emissions trends**, examining how provincial generation structures, coal phase-outs, and the expansion of renewables have shaped the decarbonization of Canada’s electricity sector.
+Analysis of **Canada’s electricity generation mix and emissions trends**, examining how provincial generation structures, coal phase-outs, and renewable expansion have shaped the decarbonization of Canada’s electricity sector.
 
 </details>
 
 ---
 
 <details open>
-<summary><strong>Music Analytics</strong></summary>
+<summary><b>Music Analytics</b></summary>
 
-## <a href="https://github.com/efeoroh/efeoroh.github.io/blob/main/images/Spotify%20Dashboard.png">Spotify Streaming Analytics Dashboard</a>  
+<br>
+
+## [Spotify Streaming Analytics Dashboard](images/Spotify%20Dashboard.png)  
 **Power BI • Data Visualization • Analytics**
 
-[![Spotify Dashboard](images/Spotify Dashboard.png)](https://github.com/efeoroh/efeoroh.github.io/blob/main/images/Spotify%20Dashboard.png)
+[![Spotify Dashboard](images/Spotify Dashboard.png)](images/Spotify%20Dashboard.png)
 
 Interactive Power BI dashboard analyzing **Spotify streaming performance**, enabling exploration of track popularity, artist metrics, and release trends across time.
 
@@ -102,39 +94,43 @@ Interactive Power BI dashboard analyzing **Spotify streaming performance**, enab
 ---
 
 <details open>
-<summary><strong>Automation</strong></summary>
+<summary><b>Automation</b></summary>
+
+<br>
 
 ## Industry Reports Automation  
 **R • Automation • Data Analysis**
 
-**Automated report building for 18 industries**, processing **2M+ rows of data** and generating multiple industry reports simultaneously using R-based data pipelines and automated reporting workflows.
+Automated report generation for **18 industries**, processing **2M+ rows of data** and producing multiple industry reports simultaneously through scalable R-based data pipelines and automated reporting workflows.
 
 </details>
 
 ---
 
 <details open>
-<summary><strong>Labour Market Analysis</strong></summary>
+<summary><b>Labour Market Analysis</b></summary>
 
-## <a href="Impact_of_Migration_on_Alberta_s_Participation_Rate.pdf">Investigating Impact of Migration on Alberta's Labour Force</a>  
+<br>
+
+## [Investigating the Impact of Migration on Alberta’s Labour Force](Impact_of_Migration_on_Alberta_s_Participation_Rate.pdf)  
 **R • Economic Modeling • Data Visualization • Labour Market Analytics**
 
 [![Impact of Migration](images/ImpactofMigration.png)](Impact_of_Migration_on_Alberta_s_Participation_Rate.pdf)
 
-Large-scale labour market analysis using **2M+ rows of labour force data**, applying industry-standard statistical analysis and data visualization techniques to evaluate the impact of migration on Alberta’s labour force participation rate.
+Large-scale labour market analysis using **2M+ rows of labour force data** and a variety of industry-standard statistical methods and visualizations.
 
-The analysis constructed **counterfactual economic scenarios** to estimate labour force participation under different migration conditions:
+The project implemented **economic modeling of four counterfactual scenarios**:
 
-- Alberta without interprovincial migration
-- Alberta without international migration
-- Alberta without both migration sources
-- The observed real-world labour market
+- Alberta’s labour force **without interprovincial migration**
+- Alberta’s labour force **without international migration**
+- Alberta’s labour force **without both migration sources**
+- **Observed labour force outcomes**
 
-By comparing participation rates across these modeled scenarios, the study isolates and measures **the structural contribution of migration to Alberta’s labour force dynamics.**
+Comparing these scenarios allowed measurement of **migration’s impact on Alberta’s labour force participation rate** and broader labour market dynamics.
 
 ---
 
-## <a href="https://github.com/efeoroh/efeoroh.github.io/blob/main/Hiring%20Demand%20Bulletin_March%202025.pdf">Hiring Demand Bulletin</a>  
+## [Hiring Demand Bulletin](https://github.com/efeoroh/efeoroh.github.io/blob/main/Hiring%20Demand%20Bulletin_March%202025.pdf)  
 **Excel • Report Writing • Data Analytics**
 
 [![Hiring Demand Bulletin](images/HD Bulletin.png)](https://github.com/efeoroh/efeoroh.github.io/blob/main/Hiring%20Demand%20Bulletin_March%202025.pdf)
@@ -146,9 +142,11 @@ Developed a **labour market hiring demand bulletin**, analyzing job posting tren
 ---
 
 <details open>
-<summary><strong>Other Analytics Projects</strong></summary>
+<summary><b>Other Analytics Projects</b></summary>
 
-## <a href="https://github.com/efeoroh/efeoroh.github.io/blob/main/Competition%20Submission_Impact%20of%20Covid19%20RealEstate.pdf">Impact of Covid on Edmonton Real Estate</a>  
+<br>
+
+## [Impact of Covid on Edmonton Real Estate](https://github.com/efeoroh/efeoroh.github.io/blob/main/Competition%20Submission_Impact%20of%20Covid19%20RealEstate.pdf)  
 **R • Data Visualization • Analytics • Machine Learning**
 
 [![Covid Real Estate Analysis](images/Impact0fCovid19.png)](https://github.com/efeoroh/efeoroh.github.io/blob/main/Competition%20Submission_Impact%20of%20Covid19%20RealEstate.pdf)
