@@ -52,23 +52,25 @@ body {
   margin: 40px 0;
 }
 
-/* Layout improvement */
+/* Page width improvement */
 .wrapper {
   max-width: 1200px;
 }
 
-/* Sidebar typography improvement */
+/* Sidebar improvement */
+header {
+  text-align: center;
+}
+
 header p {
   font-size: 14px;
   line-height: 1.6;
 }
 
-/* Make headshot circular */
 header img {
   border-radius: 50%;
 }
 
-/* Slightly stronger name */
 header h1 {
   font-weight: 700;
 }
