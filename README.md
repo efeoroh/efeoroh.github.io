@@ -1,35 +1,59 @@
 <style>
 
-/* Restore normal text color */
+/* Force consistent readable text */
 body {
   color: #000;
 }
 
+/* Section headers (Education, Experience, Analytics Projects) */
+.section-title {
+  font-size: 32px;
+  font-weight: 700;
+  margin-top: 40px;
+}
+
 /* Category headers (Energy, Music, etc.) */
 .category-title {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 700;
-  margin-top: 30px;
+  margin-top: 25px;
 }
 
 /* Project titles */
 .project-title {
-  font-size: 20px;
+  font-size: 19px;
   font-weight: 600;
   margin-top: 15px;
 }
 
+/* Tools text */
 .project-tools {
   font-weight: 600;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
 
+/* Images */
 .project-img {
   width: 650px;
-  margin-top: 5px;
+  margin-top: 6px;
+}
+
+/* Experience job titles */
+.job-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #000;
+}
+
+/* Professional divider */
+.section-divider {
+  border: none;
+  border-top: 2px solid #e5e5e5;
+  margin: 40px 0;
 }
 
 </style>
+
 
 <h1>Data Analytics Specialist</h1>
 
@@ -40,9 +64,9 @@ Data Analyst specializing in <b>Data Visualization, Report Automation, and scala
 using Power BI, R, Python, and SQL.
 </p>
 
-<hr>
+<hr class="section-divider">
 
-<h1>Education</h1>
+<div class="section-title">Education</div>
 
 <p><b>University of Alberta — Edmonton Alberta</b><br>
 Bachelor of Arts, Economics</p>
@@ -52,36 +76,35 @@ Bachelor of Arts, Economics</p>
 <li>First Class Academic Standing (GPA &gt; 3.5)</li>
 </ul>
 
-<hr>
+<hr class="section-divider">
 
-<h1>Experience</h1>
+<div class="section-title">Experience</div>
 
-<h3>Junior Economist @ Government of Alberta (May 2024 – Present)</h3>
+<div class="job-title">Junior Economist @ Government of Alberta (May 2024 – Present)</div>
 
 <ul>
 <li>Built and deployed an enterprise-scale Labour Market Insights dashboard in Power BI modeling a <b>45M-row dataset</b>.</li>
 <li>Led advanced R & SQL analysis on migration impacts on Alberta’s labour market and automated the monthly reporting pipeline.</li>
 </ul>
 
-<h3>Junior Economist @ Government of Canada (Jan 2024 – May 2024)</h3>
+<div class="job-title">Junior Economist @ Government of Canada (Jan 2024 – May 2024)</div>
 
 <ul>
 <li>Built a Power BI dashboard with real-time web-scraped emissions mapping.</li>
 <li>Spearheaded one of seven analytical segments in a Prairie economy report prepared for the Prime Minister's CIIT binder.</li>
 </ul>
 
-<h3>Data Science Intern @ Deloitte Consulting (May 2022 – Aug 2022)</h3>
+<div class="job-title">Data Science Intern @ Deloitte Consulting (May 2022 – Aug 2022)</div>
 
 <ul>
 <li>Performed customer churn analysis for a $12.41B telecommunications company.</li>
 <li>Developed a machine learning churn prediction model exceeding identification targets by 10%.</li>
 </ul>
 
-<hr>
+<hr class="section-divider">
 
-<h1>Analytics Projects</h1>
+<div class="section-title">Analytics Projects</div>
 
-<!-- ENERGY -->
 
 <details open>
 <summary class="category-title">Energy</summary>
@@ -142,9 +165,8 @@ Analysis of Canada’s electricity generation mix and emissions trends across pr
 
 </details>
 
-<br>
 
-<!-- MUSIC -->
+<br>
 
 <details open>
 <summary class="category-title">Music Analytics</summary>
@@ -167,9 +189,8 @@ Interactive Power BI dashboard analyzing Spotify streaming performance and liste
 
 </details>
 
-<br>
 
-<!-- AUTOMATION -->
+<br>
 
 <details open>
 <summary class="category-title">Automation</summary>
@@ -185,9 +206,8 @@ and generating multiple industry reports simultaneously.
 
 </details>
 
-<br>
 
-<!-- LABOUR MARKET -->
+<br>
 
 <details open>
 <summary class="category-title">Labour Market Analysis</summary>
@@ -209,6 +229,13 @@ Analysis using <b>2M+ rows of labour force data</b> modeling four economic scena
 to measure migration's impact on Alberta's labour force participation rate.
 </p>
 
+<ul>
+<li>Alberta without interprovincial migration</li>
+<li>Alberta without international migration</li>
+<li>Alberta without both</li>
+<li>Observed labour force outcomes</li>
+</ul>
+
 <hr>
 
 <div class="project-title">
@@ -229,9 +256,8 @@ Labour market hiring demand bulletin analyzing job posting trends and labour dem
 
 </details>
 
-<br>
 
-<!-- OTHER -->
+<br>
 
 <details open>
 <summary class="category-title">Other Analytics Projects</summary>
@@ -254,10 +280,13 @@ Statistical analysis examining structural changes in Edmonton housing demand fol
 
 </details>
 
-<hr>
 
-<h1>Skills</h1>
+<hr class="section-divider">
+
+<div class="section-title">Skills</div>
 
 <p>
-<b>Software Tools:</b> Python, R, SQL, SAS, Tableau, Power BI, DAX, Statistics, Excel, Time Series, Databricks, Predictive Analytics, Prescriptive Analytics, A/B Testing, Data Analytics, Prompt Engineering, Jupyter Notebook
+<b>Software Tools:</b> Python, R, SQL, SAS, Tableau, Power BI, DAX, Statistics,
+Excel, Time Series, Databricks, Predictive Analytics, Prescriptive Analytics,
+A/B Testing, Data Analytics, Prompt Engineering, Jupyter Notebook
 </p>
