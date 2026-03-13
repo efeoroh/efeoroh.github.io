@@ -52,99 +52,26 @@ body {
   margin: 40px 0;
 }
 
-Almost — but not exactly. Right now the sidebar CSS you added is outside the <style> block, so it won’t run.
-
-Your page ends like this right now:
-
-</p>
-
-/* Sidebar improvement */
+/* Layout improvement */
 .wrapper {
   max-width: 1200px;
 }
 
-But CSS must be inside the <style> tag.
-
-Correct structure
-
-Put the sidebar code inside the original <style> section at the top, like this:
-
-<style>
-
-/* Force consistent readable text */
-body {
-  color: #000;
-}
-
-/* Section headers */
-.section-title {
-  font-size: 32px;
-  font-weight: 700;
-  margin-top: 40px;
-}
-
-/* Category headers */
-.category-title {
-  font-size: 24px;
-  font-weight: 700;
-  margin-top: 25px;
-}
-
-/* Project titles */
-.project-title {
-  font-size: 19px;
-  font-weight: 600;
-  margin-top: 15px;
-}
-
-/* Tools text */
-.project-tools {
-  font-weight: 600;
-  margin-bottom: 8px;
-}
-
-/* Images */
-.project-img {
-  width: 650px;
-  margin-top: 6px;
-}
-
-/* Experience job titles */
-.job-title {
-  font-size: 20px;
-  font-weight: 600;
-  color: #000;
-}
-
-/* Professional divider */
-.section-divider {
-  border: none;
-  border-top: 2px solid #e5e5e5;
-  margin: 40px 0;
-}
-
-/* Sidebar improvement */
-.wrapper {
-  max-width: 1200px;
-}
-
+/* Sidebar typography improvement */
 header p {
   font-size: 14px;
   line-height: 1.6;
 }
 
+/* Make headshot circular */
 header img {
   border-radius: 50%;
 }
 
+/* Slightly stronger name */
 header h1 {
   font-weight: 700;
 }
-
-header {
-  text-align: center;
-}
-
 
 </style>
 
