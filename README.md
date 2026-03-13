@@ -21,7 +21,7 @@ Bachelor of Arts, Economics
 ### Junior Economist @ Government of Alberta (May 2024 – Present)
 
 - Built and deployed an enterprise-scale Labour Market Insights dashboard in Power BI, modeling a **45M-row dataset** to produce executive-ready insights.  
-- Led advanced **R & SQL analysis on migration impacts on Alberta’s labour market**, and fully automated the monthly reporting pipeline.
+- Led advanced R & SQL analysis on migration impacts on Alberta’s labour market, and **fully automated the monthly reporting pipeline.**
 
 ---
 
@@ -29,6 +29,20 @@ Bachelor of Arts, Economics
 
 - Built a **Power BI dashboard with real-time web-scraped emissions mapping**, providing multi-year analytical value to the team.  
 - Spearheaded one of seven analytical segments in a **Prairie economy report prepared for the Prime Minister's CIIT binder**.
+
+---
+
+### Enterprise Sales Intern @ Microsoft (May 2023 – Aug 2023)
+
+- Demonstrated analytical skills by analyzing **Nigeria’s top four banks**, creating market trend visualisations, and delivering an endorsed cybersecurity presentation at a major tech gathering.  
+- Organized a high-impact technology event with 400+ attendees, focused on AI bias challenges and ethical awareness in emerging technologies.
+
+---
+
+### Data Science Intern @ Deloitte Consulting (May 2022 – Aug 2022)
+
+- Performed **customer churn analysis for a $12.41B telecommunications company**, automating data cleaning and visualization for **400k+ rows**, reducing manual reporting time by **94%**.  
+- Developed a **machine learning churn prediction model**, exceeding churn risk identification targets by **10%**.
 
 ---
 
@@ -61,9 +75,9 @@ Analysis of **Canada’s oil transportation infrastructure and fiscal outcomes**
 ## Spotify Streaming Analytics Dashboard  
 **Power BI • Data Visualization • Analytics**
 
-[![Spotify Dashboard](images/Spotify Dashboard.png)](https://github.com/efeoroh/efeoroh.github.io)
+[![Spotify Dashboard](images/Spotify Dashboard.png)]([https://github.com/efeoroh/efeoroh.github.io](https://github.com/efeoroh/efeoroh.github.io/blob/main/images/Spotify%20Dashboard.png))
 
-Interactive Power BI dashboard analyzing **Spotify streaming performance**, enabling exploration of **track popularity, artist metrics, and release trends across time**.
+Interactive Power BI dashboard analyzing **Spotify streaming performance**, enabling exploration of track popularity, artist metrics, and release trends across time.
 
 ---
 
@@ -72,7 +86,7 @@ Interactive Power BI dashboard analyzing **Spotify streaming performance**, enab
 ## Industry Reports Automation  
 **R • Automation • Data Analysis**
 
-Automated report building for **18 industries**, processing **2M+ rows of data** and generating multiple industry reports simultaneously using R-based data pipelines and automated reporting workflows.
+**Automated report building for 18 industries**, processing **2M+ rows of data** and generating multiple industry reports simultaneously using R-based data pipelines and automated reporting workflows.
 
 ---
 
