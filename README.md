@@ -231,19 +231,19 @@ Impact of Covid on Edmonton Real Estate
 <hr>
 
 <div class="project-title">
-<a href="https://github.com/efeoroh/efeoroh.github.io/blob/main/images/Airbnb%20Story.png">
+<a href="https://public.tableau.com/app/profile/efeoghene.oroh5538/viz/AirbnbStoryGlobalReachUnveiled/AirbnbStory">
 Airbnb Market Analysis Story
 </a>
 </div>
 
-<div class="project-tools">Data Visualization • Market Analysis • Storytelling</div>
+<div class="project-tools">Tableau • Data Visualization • Market Analysis • Storytelling</div>
 
-<a href="https://github.com/efeoroh/efeoroh.github.io/blob/main/images/Airbnb%20Story.png">
+<a href="https://public.tableau.com/app/profile/efeoghene.oroh5538/viz/AirbnbStoryGlobalReachUnveiled/AirbnbStory">
 <img class="project-img" src="https://github.com/efeoroh/efeoroh.github.io/blob/main/images/Airbnb%20Story.png?raw=true">
 </a>
 
 <p>
-Data-driven storytelling project analyzing Airbnb market trends, pricing dynamics, and short-term rental patterns to uncover insights for hosts and investors.
+Interactive Tableau story analyzing global Airbnb market trends, pricing dynamics, geographic distribution, and listing behavior to uncover actionable insights for hosts and investors.
 </p>
 
 </details>
