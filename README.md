@@ -192,6 +192,66 @@ Analysis of Canada’s electricity generation mix and emissions trends across pr
 <br>
 
 <details open>
+<summary class="category-title">Real Estate Analytics</summary>
+
+<div class="project-title">
+<a href="https://drive.google.com/drive/u/3/home">
+Property Management Analytics Dashboard
+</a>
+</div>
+
+<div class="project-tools">Power BI • Real Estate Analytics • Data Visualization</div>
+
+<a href="https://drive.google.com/drive/u/3/home">
+<img class="project-img" src="images/Property Management Dash picture.png">
+</a>
+
+<p>
+Interactive dashboard analyzing property performance, tenant trends, and operational metrics for real estate management decision-making.
+</p>
+
+<hr>
+
+<div class="project-title">
+<a href="Competition_Submission_Impact_of_Covid19_RealEstate.pdf">
+Impact of Covid on Edmonton Real Estate
+</a>
+</div>
+
+<div class="project-tools">R • Data Visualization • Analytics • Machine Learning</div>
+
+<a href="Competition_Submission_Impact_of_Covid19_RealEstate.pdf">
+<img class="project-img" src="images/Impact0fCovid19.png">
+</a>
+
+<p>
+<b>1st Place Winner and Cash Prize.</b> Competition involving Masters+ and some Bachelors students tasked with analyzing City of Edmonton datasets to examine the impact of Covid-19 on Edmonton’s housing market. I led <b>Section 5 — the core descriptive analysis</b>, conducting large-scale exploratory analysis that identified the key structural changes in housing demand and price dynamics, which subsequently informed the predictive models built by the team.
+</p>
+
+<hr>
+
+<div class="project-title">
+<a href="https://github.com/efeoroh/efeoroh.github.io/blob/main/images/Airbnb%20Story.png">
+Airbnb Market Analysis Story
+</a>
+</div>
+
+<div class="project-tools">Data Visualization • Market Analysis • Storytelling</div>
+
+<a href="https://github.com/efeoroh/efeoroh.github.io/blob/main/images/Airbnb%20Story.png">
+<img class="project-img" src="https://github.com/efeoroh/efeoroh.github.io/blob/main/images/Airbnb%20Story.png?raw=true">
+</a>
+
+<p>
+Data-driven storytelling project analyzing Airbnb market trends, pricing dynamics, and short-term rental patterns to uncover insights for hosts and investors.
+</p>
+
+</details>
+
+
+<br>
+
+<details open>
 <summary class="category-title">Music Analytics</summary>
 
 <div class="project-title">
@@ -262,84 +322,7 @@ Indigenous Statistics Data Pipeline Automation
 <div class="project-tools">R • Automation • Data Engineering</div>
 
 <p>
-Automated the extraction and processing of <b>5M+ rows of Indigenous statistical data</b> used in multiple recurring analytical reports. The pipeline standardized data ingestion, cleaning, and transformation for repeated reporting workflows. Project outputs cannot be displayed publicly due to data access restrictions.
-</p>
-
-</details>
-
-
-<br>
-
-<details open>
-<summary class="category-title">Labour Market Analysis</summary>
-
-<div class="project-title">
-<a href="Impact_of_Migration_on_Alberta_s_Participation_Rate.pdf">
-Investigating the Impact of Migration on Alberta’s Labour Force
-</a>
-</div>
-
-<div class="project-tools">R • Economic Modeling • Data Visualization • Labour Market Analytics</div>
-
-<a href="Impact_of_Migration_on_Alberta_s_Participation_Rate.pdf">
-<img class="project-img" src="images/ImpactofMigration.png">
-</a>
-
-<p>
-Large-scale labour market analysis using <b>2M+ rows of labour force data</b> and a range of industry-standard statistical methods and visualizations.
-</p>
-
-<p>
-The project implemented <b>economic modeling of four counterfactual scenarios</b> to isolate the effect of migration on Alberta’s labour force participation rate:
-</p>
-
-<ul>
-<li>Alberta without interprovincial migration</li>
-<li>Alberta without international migration</li>
-<li>Alberta without both</li>
-<li>Observed labour force outcomes</li>
-</ul>
-
-<hr>
-
-<div class="project-title">
-<a href="Hiring Demand Bulletin_March 2025.pdf">
-Hiring Demand Bulletin
-</a>
-</div>
-
-<div class="project-tools">Excel • Report Writing • Data Analytics</div>
-
-<a href="Hiring Demand Bulletin_March 2025.pdf">
-<img class="project-img" src="images/HD Bulletin.png">
-</a>
-
-<p>
-Recurring labour market bulletin analyzing hiring demand across <b>18 industries</b>, organized into major economic sectors including <b>Technology, Health, Mining and Oil & Gas Extraction, and Education</b>, and further disaggregated by Alberta’s <b>central economic regions</b>.
-</p>
-
-</details>
-
-
-<br>
-
-<details open>
-<summary class="category-title">Other Analytics Projects</summary>
-
-<div class="project-title">
-<a href="Competition_Submission_Impact_of_Covid19_RealEstate.pdf">
-Impact of Covid on Edmonton Real Estate
-</a>
-</div>
-
-<div class="project-tools">R • Data Visualization • Analytics • Machine Learning</div>
-
-<a href="Competition_Submission_Impact_of_Covid19_RealEstate.pdf">
-<img class="project-img" src="images/Impact0fCovid19.png">
-</a>
-
-<p>
-<b>1st Place Winner and Cash Prize.</b> Competition involving Masters+ and some Bachelors students tasked with analyzing City of Edmonton datasets to examine the impact of Covid-19 on Edmonton’s housing market. I led <b>Section 5 — the core descriptive analysis</b>, conducting large-scale exploratory analysis that identified the key structural changes in housing demand and price dynamics, which subsequently informed the predictive models built by the team.
+Automated the extraction and processing of <b>5M+ rows of Indigenous statistical data</b> used in multiple recurring analytical reports.
 </p>
 
 </details>
