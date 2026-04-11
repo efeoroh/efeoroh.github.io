@@ -202,7 +202,8 @@ Property Management Analytics Dashboard
 
 <div class="project-tools">Power BI • Real Estate Analytics • Data Visualization</div>
 
-<a href="[https://drive.google.com/drive/u/3/home](https://drive.google.com/file/d/14QHgQ5gd05m3CGIHPhaVFQdVvWuinpP6/view?usp=sharing)">
+<a href="https://drive.google.com/file/d/14QHgQ5gd05m3CGIHPhaVFQdVvWuinpP6/view?usp=sharing" target="_blank">
+  Open File
 <img class="project-img" src="images/Property Management Dash picture.png">
 </a>
 
